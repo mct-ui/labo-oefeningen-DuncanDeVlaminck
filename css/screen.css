@@ -496,7 +496,7 @@ p>.c-download-whitepaper {
     right: 8px;
     background-color: white;
     color: black;
-    border-left: solid 5px blue;
+    border-left: solid 5px #5051db;
 }
 
 @media (min-width: 768px) {
